@@ -131,42 +131,79 @@ Implementing a structured support centre enables organisations to:
 
 # 📸 Implementation Screenshots
 
-## Configuration
-
-- Custom Ticket Fields
-- Agent Groups
-- Agent Roles
-- SLA Policy
-
-## Workflow Automation
-
-- Automatic Ticket Assignment
-- Escalation Rules
-- Auto-close Workflow
-
-## Ticket Management
-
-- Ticket Creation
-- Ticket Queue
-- Ticket Details
-- Ticket Resolution
-
-## Analytics
-
-- Operations Dashboard
-- Support Overview
-
-## Customer Support
-
-- Canned Responses
-- Customer Communication
-
-## Knowledge Base
-
-- Knowledge Base Homepage
-- Contact Support Article
+The following screenshots showcase the Freshdesk implementation for Gochelicious Restaurant, demonstrating the configuration, automation, ticket management, reporting, customer support tools, and knowledge base created as part of this project.
 
 ---
+
+## ⚙️ Configuration
+
+The Freshdesk environment was configured with custom ticket fields, support groups, agent roles, and SLA policies to support restaurant operations.
+
+| Ticket Fields | SLA Policy |
+|---------------|------------|
+| ![](screenshots/01-configuration/01-ticket-fields.png) | ![](screenshots/01-configuration/04-sla-policy.png) |
+
+| Agent Groups | Agent Roles |
+|--------------|-------------|
+| ![](screenshots/01-configuration/02-agent-groups.png) | ![](screenshots/01-configuration/03-agent-roles.png) |
+
+---
+
+## 🤖 Workflow Automation
+
+Automation rules were implemented to route tickets, enforce SLAs, and reduce manual support work.
+
+| Delivery Ticket Assignment | Billing Ticket Assignment |
+|----------------------------|---------------------------|
+| ![](screenshots/02-automations/01-assign-delivery-tickets.png) | ![](screenshots/02-automations/02-assign-billing-tickets.png) |
+
+| Escalation Rule | Auto-close Rule |
+|-----------------|-----------------|
+| ![](screenshots/02-automations/03-escalation-rule.png) | ![](screenshots/02-automations/04-auto-close-rule.png) |
+
+---
+
+## 🎫 Ticket Management
+
+These screenshots demonstrate the complete lifecycle of a support ticket, from creation through resolution.
+
+| New Ticket Form | Ticket List |
+|-----------------|-------------|
+| ![](screenshots/03-tickets/01-new-ticket-form.png) | ![](screenshots/03-tickets/02-ticket-list.png) |
+
+| Ticket Details | Closed Ticket* |
+|----------------|----------------|
+| ![](screenshots/03-tickets/03-ticket-details.png) | ![](screenshots/03-tickets/04-closed-ticket.png) |
+
+---
+
+## 📊 Analytics
+
+Freshdesk dashboards and reports provide visibility into team performance and customer support metrics.
+
+| Operations Dashboard | Support Overview Report |
+|----------------------|-------------------------|
+| ![](screenshots/04-analytics/01-operations-dashboard.png) | ![](screenshots/04-analytics/02-support-overview-report.png) |
+
+---
+
+## 💬 Customer Support
+
+Prepared customer communication templates help agents deliver faster and more consistent responses.
+
+| Canned Responses | Canned Response Details |
+|------------------|-------------------------|
+| ![](screenshots/05-customer-support/01-canned-responses.png) | ![](screenshots/05-customer-support/02-canned-response-detail.png) |
+
+---
+
+## 📚 Knowledge Base
+
+The knowledge base enables customers to find answers independently while reducing support requests.
+
+| Knowledge Base Home | Contact Support Article |
+|---------------------|-------------------------|
+| ![](screenshots/06-knowledge-base/01-knowledge-base-homepage.png) | ![](screenshots/06-knowledge-base/02-contact-support-article.png) |
 
 # 📁 Project Assets
 
