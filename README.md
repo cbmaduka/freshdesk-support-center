@@ -129,6 +129,46 @@ Implementing a structured support centre enables organisations to:
 
 ---
 
+---
+
+# 📸 Implementation Screenshots
+
+## Configuration
+
+- Custom Ticket Fields
+- Agent Groups
+- Agent Roles
+- SLA Policy
+
+## Workflow Automation
+
+- Automatic Ticket Assignment
+- Escalation Rules
+- Auto-close Workflow
+
+## Ticket Management
+
+- Ticket Creation
+- Ticket Queue
+- Ticket Details
+- Ticket Resolution
+
+## Analytics
+
+- Operations Dashboard
+- Support Overview
+
+## Customer Support
+
+- Canned Responses
+- Customer Communication
+
+## Knowledge Base
+
+- Knowledge Base Homepage
+- Contact Support Article
+
+- 
 ## 👤 Author
 
 **Chika**
