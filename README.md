@@ -203,4 +203,4 @@ Operations • Customer Success • CRM • Project Management • Success Partn
 
 ---
 
-*Building practical solutions that help businesses deliver exceptional customer experiences.*
+*Same warmth, wherever you find me*
