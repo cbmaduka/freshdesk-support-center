@@ -1,6 +1,6 @@
-# Freshdesk Support Center
+# Freshdesk Customer Support Implementation for Gochelicious Restaurant
 
-> A practical customer support solution demonstrating how Freshdesk can be used to deliver fast, consistent, and customer-focused support through effective ticket management, automation, knowledge management, and reporting.
+> A practical customer support solution demonstrating End-to-end Freshdesk implementation for Gochelicious Restaurant, including ticket management, SLA policies, workflows, knowledge base, automation, and customer support documentation.
 
 ---
 
