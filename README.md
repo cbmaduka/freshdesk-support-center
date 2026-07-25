@@ -234,7 +234,7 @@ This implementation demonstrates practical experience with:
   
 ## 👤 Author
 
-**Chika**
+**Chika Blessing**
 
 Operations • Customer Success • CRM • Project Management • Success Partner
 
