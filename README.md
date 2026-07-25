@@ -129,8 +129,6 @@ Implementing a structured support centre enables organisations to:
 
 ---
 
----
-
 # 📸 Implementation Screenshots
 
 ## Configuration
@@ -168,6 +166,19 @@ Implementing a structured support centre enables organisations to:
 - Knowledge Base Homepage
 - Contact Support Article
 
+---
+
+# 📁 Project Assets
+
+This repository contains:
+
+- Business documentation
+- Support workflows
+- Email templates
+- Knowledge base articles
+- Freshdesk implementation screenshots
+- Customer support documentation
+- 
 - 
 ## 👤 Author
 
