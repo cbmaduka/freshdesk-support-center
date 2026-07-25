@@ -159,7 +159,7 @@ Automation rules were implemented to route tickets, enforce SLAs, and reduce man
 
 | Escalation Rule | Auto-close Rule |
 |-----------------|-----------------|
-| ![](screenshots/02-automations/03-escalation-rule.png) | ![](screenshots/02-automations/04-auto-close-rule.png) |
+| ![](screenshots/02-automations/03-escalation-rule.png) | ![](screenshots/02-automations/04-automation-close-rule.png) |
 
 ---
 
